@@ -2,7 +2,9 @@
 
 <img src="screenshots/home.png" width="600">
 
-This web tool helps you find medications that dont contain allergens. This data is provided by the FDA!
+This web tool helps you find medications that dont contain allergens. 
+
+This data is provided by the FDA.
 
 https://drugallergenchecker.onrender.com/
 
