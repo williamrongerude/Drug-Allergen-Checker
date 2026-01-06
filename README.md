@@ -6,7 +6,7 @@ https://drugallergenchecker.onrender.com/
 
 This tool helps you find medications that are free from allergens. 
 
-This service is powered by FDA data.
+All data coems from the FDA.
 
 ## Features
 
