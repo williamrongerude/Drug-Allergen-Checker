@@ -2,11 +2,11 @@
 
 <img src="screenshots/home.png" width="600">
 
-I developed this web tool that helps you find medications that dont contain allergens. This is a simple way to find safe drug formulations for your allergies using FDA data.
-
-This data is provided by the FDA.
-
 https://drugallergenchecker.onrender.com/
+
+This tool helps you find medications that are free from allergens. 
+
+This service is powered by FDA data.
 
 ## Features
 
