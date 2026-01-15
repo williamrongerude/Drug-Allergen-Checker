@@ -15,3 +15,7 @@ This tool helps you find medications that are free from allergens.
 
 <img src="screenshots/results.png" width="600">
 
+## Details
+
+- Powered by FDA data via API endpoint
+- https://open.fda.gov/
