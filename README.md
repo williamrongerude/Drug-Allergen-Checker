@@ -19,4 +19,4 @@ Powered by FDA medication data. (Thank you!)
 
 Powered by FDA data: https://open.fda.gov/
 
-Tool developed by Me!
+Tool developed by William Rongerude.
