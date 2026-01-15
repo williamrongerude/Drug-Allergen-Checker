@@ -17,7 +17,4 @@ Powered by FDA medication data. (Thank you!)
 
 <img src="screenshots/results.png" width="600">
 
-## Details
-
-- Powered by FDA data
-- https://open.fda.gov/
+Powered by FDA data: https://open.fda.gov/
