@@ -18,3 +18,4 @@ Powered by FDA medication data. (Thank you!)
 <img src="screenshots/results.png" width="600">
 
 Powered by FDA data: https://open.fda.gov/
+Tool developed by Me!
