@@ -2,7 +2,7 @@
 
 <img src="screenshots/home.png" width="600">
 
-https://drugallergenchecker.onrender.com/
+https://drugallergencheck.onrender.com/
 
 This tool helps you find medications that are free from allergens. 
 
