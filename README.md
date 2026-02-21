@@ -4,9 +4,7 @@
 
 https://drugallergencheck.onrender.com/
 
-This easy-to-use service helps you find medications free from allergens.
-
-Powered by FDA medication data. (Thank you!)
+This web application provides quick medication search that are free from allergens.
 
 ## Features
 
@@ -18,5 +16,3 @@ Powered by FDA medication data. (Thank you!)
 <img src="screenshots/results.png" width="600">
 
 Powered by FDA data: https://open.fda.gov/
-
-Tool developed by William Rongerude.
