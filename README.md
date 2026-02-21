@@ -1,10 +1,10 @@
-# Drug Allergen Checker
+# Allergen Free Medication Search
 
 <img src="screenshots/home.png" width="600">
 
-https://drugallergencheck.onrender.com/
+https://safemedications.pages.dev
 
-This web application provides quick medication search that are free from allergens.
+This web application provides medication search for allergen-free formulations.
 
 ## Features
 
