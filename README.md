@@ -9,10 +9,11 @@ This web application provides quick medication search that are free from allerge
 ## Features
 
 - Search any medication by name
-- Filter by common allergens (gluten, red dye, etc.)
+- Filter by common allergens (gluten, red dye, gelatin, alcohol, paraben, etc.)
 - Compare safe vs. unsafe formulations
 - View top adverse events from FDA reports
 
 <img src="screenshots/results.png" width="600">
 
-Powered by FDA data: https://open.fda.gov/
+Data is from the FDA:
+https://open.fda.gov/
